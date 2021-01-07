@@ -1,6 +1,8 @@
 # WKP Ubuntu
 Custom Keyboard Similar windows for Ubuntu
 
+![Ubuntu keyboard Persian](https://raw.githubusercontent.com/Ja7adR/WKP-Ubuntu/main/screenshot.png)
+
 ## How to use?
 1. First `git clone https://github.com/Ja7adR/WKP-Ubuntu.git`
 2. go to `cd WKP-Ubuntu`
